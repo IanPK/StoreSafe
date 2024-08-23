@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "iankilpatrick",
+    "password": "asdQWE123!@#",
+    "database": "storesafe",
+    "host": "127.0.0.1",
+    "port": 5433,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "iankilpatrick",
+    "password": "asdQWE123",
+    "database": "storesafe_test",
+    "host": "127.0.0.1",
+    "port": 5433,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "cambr_storesafe",
+    "password": "asdQWE123!@#",
+    "database": "cambronew_storesafe",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
