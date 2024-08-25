@@ -594,6 +594,10 @@ button.btn-home-brochure {
     margin-bottom: 0;
     font-size: 16px;
   }
+  .login, .register {
+    max-width: 90vw;
+    padding: 10px 20px;
+  }
   .question-container h2 { padding: 20px 0; }
   .nav-arrow { width: 5vw; }
   .yes-no button { padding: 0 40px; }
